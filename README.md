@@ -1,7 +1,6 @@
 # Consommation d'électricité en France : tendances, extrapolation et objectifs de la PPE-3
 
 Dossier d'économie de l'énergie Master 1 EEET, Université Paris-Saclay, 2025-2026.
-Projet réalisé avec Lorena Girodet et Aurélien Weng.
 
 ## Objectif
 Analyser l'évolution de la consommation d'électricité en France sur 2014-2024, projeter sa tendance jusqu'en 2030 et la confronter aux objectifs de la 3e Programmation pluriannuelle de l'énergie (PPE-3). Selon les consignes du professeur Frédéric Lantz.
